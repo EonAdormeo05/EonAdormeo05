@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EonAdormeo05
+- 👀 I’m interested in Programming with Lua & C++ 
+- 🌱 I’m currently learning Solar2d Game engine in Lua and doing a little of competitive programmin
